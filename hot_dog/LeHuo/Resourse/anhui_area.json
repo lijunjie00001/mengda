@@ -1,0 +1,1171 @@
+[
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖A",
+        "dictItemId": 5001,
+        "displayName": "合肥",
+        "factValue": "皖A",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A01",
+                "dictItemId": 5002,
+                "displayName": "瑶海区",
+                "factValue": "皖A01",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A02",
+                "dictItemId": 5003,
+                "displayName": "庐阳区",
+                "factValue": "皖A02",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A03",
+                "dictItemId": 5004,
+                "displayName": "蜀山区",
+                "factValue": "皖A03",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A04",
+                "dictItemId": 5005,
+                "displayName": "包河区",
+                "factValue": "皖A04",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A05",
+                "dictItemId": 5006,
+                "displayName": "肥东县",
+                "factValue": "皖A05",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A06",
+                "dictItemId": 5007,
+                "displayName": "肥西县",
+                "factValue": "皖A06",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A07",
+                "dictItemId": 5008,
+                "displayName": "长丰县",
+                "factValue": "皖A07",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A08",
+                "dictItemId": 5009,
+                "displayName": "庐江县",
+                "factValue": "皖A08",
+                "isdel": "0",
+                "parentId": "5001"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖A09",
+                "dictItemId": 5010,
+                "displayName": "巢湖市",
+                "factValue": "皖A09",
+                "isdel": "0",
+                "parentId": "5001"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖B",
+        "dictItemId": 5030,
+        "displayName": "芜湖",
+        "factValue": "皖B",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B01",
+                "dictItemId": 5031,
+                "displayName": "镜湖区",
+                "factValue": "皖B01",
+                "isdel": "0",
+                "parentId": "5030"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B02",
+                "dictItemId": 5032,
+                "displayName": "弋江区",
+                "factValue": "皖B02",
+                "isdel": "0",
+                "parentId": "5030"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B03",
+                "dictItemId": 5033,
+                "displayName": "鸠江区",
+                "factValue": "皖B03",
+                "isdel": "0",
+                "parentId": "5030"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B04",
+                "dictItemId": 5034,
+                "displayName": "三山区",
+                "factValue": "皖B04",
+                "isdel": "0",
+                "parentId": "5030"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B05",
+                "dictItemId": 5035,
+                "displayName": "无为县",
+                "factValue": "皖B05",
+                "isdel": "0",
+                "parentId": "5030"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B06",
+                "dictItemId": 5036,
+                "displayName": "芜湖县",
+                "factValue": "皖B06",
+                "isdel": "0",
+                "parentId": "5030"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B07",
+                "dictItemId": 5037,
+                "displayName": "繁昌县",
+                "factValue": "皖B07",
+                "isdel": "0",
+                "parentId": "5030"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖B08",
+                "dictItemId": 5038,
+                "displayName": "南陵县",
+                "factValue": "皖B08",
+                "isdel": "0",
+                "parentId": "5030"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖C",
+        "dictItemId": 5050,
+        "displayName": "蚌埠",
+        "factValue": "皖C",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖C01",
+                "dictItemId": 5051,
+                "displayName": "龙子湖区",
+                "factValue": "皖C01",
+                "isdel": "0",
+                "parentId": "5050"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖C02",
+                "dictItemId": 5052,
+                "displayName": "蚌山区",
+                "factValue": "皖C02",
+                "isdel": "0",
+                "parentId": "5050"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖C03",
+                "dictItemId": 5053,
+                "displayName": "禹会区",
+                "factValue": "皖C03",
+                "isdel": "0",
+                "parentId": "5050"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖C04",
+                "dictItemId": 5054,
+                "displayName": "淮上区",
+                "factValue": "皖C04",
+                "isdel": "0",
+                "parentId": "5050"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖C05",
+                "dictItemId": 5055,
+                "displayName": "五河县",
+                "factValue": "皖C05",
+                "isdel": "0",
+                "parentId": "5050"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖C06",
+                "dictItemId": 5056,
+                "displayName": "固镇县",
+                "factValue": "皖C06",
+                "isdel": "0",
+                "parentId": "5050"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖C07",
+                "dictItemId": 5057,
+                "displayName": "怀远县",
+                "factValue": "皖C07",
+                "isdel": "0",
+                "parentId": "5050"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖D",
+        "dictItemId": 5070,
+        "displayName": "淮南",
+        "factValue": "皖D",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖D01",
+                "dictItemId": 5071,
+                "displayName": "大通区",
+                "factValue": "皖D01",
+                "isdel": "0",
+                "parentId": "5070"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖D02",
+                "dictItemId": 5072,
+                "displayName": "田家庵区",
+                "factValue": "皖D02",
+                "isdel": "0",
+                "parentId": "5070"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖D03",
+                "dictItemId": 5073,
+                "displayName": "谢家集区",
+                "factValue": "皖D03",
+                "isdel": "0",
+                "parentId": "5070"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖D04",
+                "dictItemId": 5074,
+                "displayName": "八公山区",
+                "factValue": "皖D04",
+                "isdel": "0",
+                "parentId": "5070"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖D05",
+                "dictItemId": 5075,
+                "displayName": "潘集区",
+                "factValue": "皖D05",
+                "isdel": "0",
+                "parentId": "5070"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖D06",
+                "dictItemId": 5076,
+                "displayName": "凤台县",
+                "factValue": "皖D06",
+                "isdel": "0",
+                "parentId": "5070"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖D07",
+                "dictItemId": 5077,
+                "displayName": "寿县",
+                "factValue": "皖D07",
+                "isdel": "0",
+                "parentId": "5070"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖E",
+        "dictItemId": 5090,
+        "displayName": "马鞍山",
+        "factValue": "皖E",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖E01",
+                "dictItemId": 5091,
+                "displayName": "花山区",
+                "factValue": "皖E01",
+                "isdel": "0",
+                "parentId": "5090"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖E02",
+                "dictItemId": 5092,
+                "displayName": "雨山区",
+                "factValue": "皖E02",
+                "isdel": "0",
+                "parentId": "5090"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖E03",
+                "dictItemId": 5093,
+                "displayName": "博望区",
+                "factValue": "皖E03",
+                "isdel": "0",
+                "parentId": "5090"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖E04",
+                "dictItemId": 5094,
+                "displayName": "含山县",
+                "factValue": "皖E04",
+                "isdel": "0",
+                "parentId": "5090"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖E05",
+                "dictItemId": 5095,
+                "displayName": "和县",
+                "factValue": "皖E05",
+                "isdel": "0",
+                "parentId": "5090"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖E06",
+                "dictItemId": 5096,
+                "displayName": "当涂县",
+                "factValue": "皖E06",
+                "isdel": "0",
+                "parentId": "5090"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖F",
+        "dictItemId": 5110,
+        "displayName": "淮北",
+        "factValue": "皖F",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖F01",
+                "dictItemId": 5111,
+                "displayName": "相山区",
+                "factValue": "皖F01",
+                "isdel": "0",
+                "parentId": "5110"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖F02",
+                "dictItemId": 5112,
+                "displayName": "杜集区",
+                "factValue": "皖F02",
+                "isdel": "0",
+                "parentId": "5110"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖F03",
+                "dictItemId": 5113,
+                "displayName": "烈山区",
+                "factValue": "皖F03",
+                "isdel": "0",
+                "parentId": "5110"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖F04",
+                "dictItemId": 5114,
+                "displayName": "濉溪县",
+                "factValue": "皖F04",
+                "isdel": "0",
+                "parentId": "5110"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖G",
+        "dictItemId": 5130,
+        "displayName": "铜陵",
+        "factValue": "皖G",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖G01",
+                "dictItemId": 5131,
+                "displayName": "铜官区",
+                "factValue": "皖G01",
+                "isdel": "0",
+                "parentId": "5130"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖G02",
+                "dictItemId": 5132,
+                "displayName": "郊区",
+                "factValue": "皖G02",
+                "isdel": "0",
+                "parentId": "5130"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖G03",
+                "dictItemId": 5133,
+                "displayName": "义安区",
+                "factValue": "皖G03",
+                "isdel": "0",
+                "parentId": "5130"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖G04",
+                "dictItemId": 5134,
+                "displayName": "枞阳县",
+                "factValue": "皖G04",
+                "isdel": "0",
+                "parentId": "5130"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖H",
+        "dictItemId": 5150,
+        "displayName": "安庆",
+        "factValue": "皖H",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H01",
+                "dictItemId": 5151,
+                "displayName": "迎江区",
+                "factValue": "皖H01",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H02",
+                "dictItemId": 5152,
+                "displayName": "大观区",
+                "factValue": "皖H02",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H03",
+                "dictItemId": 5153,
+                "displayName": "宜秀区",
+                "factValue": "皖H03",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H04",
+                "dictItemId": 5154,
+                "displayName": "怀宁县",
+                "factValue": "皖H04",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H05",
+                "dictItemId": 5155,
+                "displayName": "桐城市",
+                "factValue": "皖H05",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H06",
+                "dictItemId": 5156,
+                "displayName": "潜山县",
+                "factValue": "皖H06",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H07",
+                "dictItemId": 5157,
+                "displayName": "太湖县",
+                "factValue": "皖H07",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H08",
+                "dictItemId": 5158,
+                "displayName": "宿松县",
+                "factValue": "皖H08",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H09",
+                "dictItemId": 5159,
+                "displayName": "望江县",
+                "factValue": "皖H09",
+                "isdel": "0",
+                "parentId": "5150"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖H10",
+                "dictItemId": 5160,
+                "displayName": "岳西县",
+                "factValue": "皖H10",
+                "isdel": "0",
+                "parentId": "5150"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖I",
+        "dictItemId": 5180,
+        "displayName": "黄山",
+        "factValue": "皖I",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖I01",
+                "dictItemId": 5181,
+                "displayName": "屯溪区",
+                "factValue": "皖I01",
+                "isdel": "0",
+                "parentId": "5180"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖I02",
+                "dictItemId": 5182,
+                "displayName": "黄山区",
+                "factValue": "皖I02",
+                "isdel": "0",
+                "parentId": "5180"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖I03",
+                "dictItemId": 5183,
+                "displayName": "徽州区",
+                "factValue": "皖I03",
+                "isdel": "0",
+                "parentId": "5180"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖I04",
+                "dictItemId": 5184,
+                "displayName": "歙县",
+                "factValue": "皖I04",
+                "isdel": "0",
+                "parentId": "5180"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖I05",
+                "dictItemId": 5185,
+                "displayName": "休宁县",
+                "factValue": "皖I05",
+                "isdel": "0",
+                "parentId": "5180"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖I06",
+                "dictItemId": 5186,
+                "displayName": "黟县",
+                "factValue": "皖I06",
+                "isdel": "0",
+                "parentId": "5180"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖I07",
+                "dictItemId": 5187,
+                "displayName": "祁门县",
+                "factValue": "皖I07",
+                "isdel": "0",
+                "parentId": "5180"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖J",
+        "dictItemId": 5200,
+        "displayName": "阜阳",
+        "factValue": "皖J",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J01",
+                "dictItemId": 5201,
+                "displayName": "颍州区",
+                "factValue": "皖J01",
+                "isdel": "0",
+                "parentId": "5200"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J02",
+                "dictItemId": 5202,
+                "displayName": "颍泉区",
+                "factValue": "皖J02",
+                "isdel": "0",
+                "parentId": "5200"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J03",
+                "dictItemId": 5203,
+                "displayName": "颍东区",
+                "factValue": "皖J03",
+                "isdel": "0",
+                "parentId": "5200"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J04",
+                "dictItemId": 5204,
+                "displayName": "颍上县",
+                "factValue": "皖J04",
+                "isdel": "0",
+                "parentId": "5200"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J05",
+                "dictItemId": 5205,
+                "displayName": "界首市",
+                "factValue": "皖J05",
+                "isdel": "0",
+                "parentId": "5200"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J06",
+                "dictItemId": 5206,
+                "displayName": "临泉县",
+                "factValue": "皖J06",
+                "isdel": "0",
+                "parentId": "5200"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J07",
+                "dictItemId": 5207,
+                "displayName": "阜南县",
+                "factValue": "皖J07",
+                "isdel": "0",
+                "parentId": "5200"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖J08",
+                "dictItemId": 5208,
+                "displayName": "太和县",
+                "factValue": "皖J08",
+                "isdel": "0",
+                "parentId": "5200"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖K",
+        "dictItemId": 5220,
+        "displayName": "宿州",
+        "factValue": "皖K",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖K01",
+                "dictItemId": 5221,
+                "displayName": "埇桥区",
+                "factValue": "皖K01",
+                "isdel": "0",
+                "parentId": "5220"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖K02",
+                "dictItemId": 5222,
+                "displayName": "萧县",
+                "factValue": "皖K02",
+                "isdel": "0",
+                "parentId": "5220"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖K03",
+                "dictItemId": 5223,
+                "displayName": "砀山县",
+                "factValue": "皖K03",
+                "isdel": "0",
+                "parentId": "5220"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖K04",
+                "dictItemId": 5224,
+                "displayName": "灵璧县",
+                "factValue": "皖K04",
+                "isdel": "0",
+                "parentId": "5220"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖K05",
+                "dictItemId": 5225,
+                "displayName": "泗县",
+                "factValue": "皖K05",
+                "isdel": "0",
+                "parentId": "5220"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖L",
+        "dictItemId": 5240,
+        "displayName": "滁州",
+        "factValue": "皖L",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L01",
+                "dictItemId": 5241,
+                "displayName": "琅琊区",
+                "factValue": "皖L01",
+                "isdel": "0",
+                "parentId": "5240"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L02",
+                "dictItemId": 5242,
+                "displayName": "南谯区",
+                "factValue": "皖L02",
+                "isdel": "0",
+                "parentId": "5240"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L03",
+                "dictItemId": 5243,
+                "displayName": "天长市",
+                "factValue": "皖L03",
+                "isdel": "0",
+                "parentId": "5240"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L04",
+                "dictItemId": 5244,
+                "displayName": "明光市",
+                "factValue": "皖L04",
+                "isdel": "0",
+                "parentId": "5240"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L05",
+                "dictItemId": 5245,
+                "displayName": "全椒县",
+                "factValue": "皖L05",
+                "isdel": "0",
+                "parentId": "5240"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L06",
+                "dictItemId": 5246,
+                "displayName": "来安县",
+                "factValue": "皖L06",
+                "isdel": "0",
+                "parentId": "5240"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L07",
+                "dictItemId": 5247,
+                "displayName": "凤阳县",
+                "factValue": "皖L07",
+                "isdel": "0",
+                "parentId": "5240"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖L08",
+                "dictItemId": 5248,
+                "displayName": "定远县",
+                "factValue": "皖L08",
+                "isdel": "0",
+                "parentId": "5240"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖M",
+        "dictItemId": 5260,
+        "displayName": "六安",
+        "factValue": "皖M",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖M01",
+                "dictItemId": 5261,
+                "displayName": "金安区",
+                "factValue": "皖M01",
+                "isdel": "0",
+                "parentId": "5260"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖M02",
+                "dictItemId": 5262,
+                "displayName": "裕安区",
+                "factValue": "皖M02",
+                "isdel": "0",
+                "parentId": "5260"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖M03",
+                "dictItemId": 5263,
+                "displayName": "叶集区",
+                "factValue": "皖M03",
+                "isdel": "0",
+                "parentId": "5260"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖M04",
+                "dictItemId": 5264,
+                "displayName": "霍邱县",
+                "factValue": "皖M04",
+                "isdel": "0",
+                "parentId": "5260"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖M05",
+                "dictItemId": 5265,
+                "displayName": "霍山县",
+                "factValue": "皖M05",
+                "isdel": "0",
+                "parentId": "5260"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖M06",
+                "dictItemId": 5266,
+                "displayName": "金寨县",
+                "factValue": "皖M06",
+                "isdel": "0",
+                "parentId": "5260"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖M07",
+                "dictItemId": 5267,
+                "displayName": "舒城县",
+                "factValue": "皖M07",
+                "isdel": "0",
+                "parentId": "5260"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖N",
+        "dictItemId": 5280,
+        "displayName": "宣城",
+        "factValue": "皖N",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖N01",
+                "dictItemId": 5281,
+                "displayName": "宣州区",
+                "factValue": "皖N01",
+                "isdel": "0",
+                "parentId": "5280"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖N02",
+                "dictItemId": 5282,
+                "displayName": "郎溪县",
+                "factValue": "皖N02",
+                "isdel": "0",
+                "parentId": "5280"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖N03",
+                "dictItemId": 5283,
+                "displayName": "广德县",
+                "factValue": "皖N03",
+                "isdel": "0",
+                "parentId": "5280"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖N04",
+                "dictItemId": 5284,
+                "displayName": "宁国市",
+                "factValue": "皖N04",
+                "isdel": "0",
+                "parentId": "5280"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖N05",
+                "dictItemId": 5285,
+                "displayName": "泾县",
+                "factValue": "皖N05",
+                "isdel": "0",
+                "parentId": "5280"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖N06",
+                "dictItemId": 5286,
+                "displayName": "绩溪县",
+                "factValue": "皖N06",
+                "isdel": "0",
+                "parentId": "5280"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖N07",
+                "dictItemId": 5287,
+                "displayName": "旌德县",
+                "factValue": "皖N07",
+                "isdel": "0",
+                "parentId": "5280"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖O",
+        "dictItemId": 5300,
+        "displayName": "池州",
+        "factValue": "皖O",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖O01",
+                "dictItemId": 5301,
+                "displayName": "贵池区",
+                "factValue": "皖O01",
+                "isdel": "0",
+                "parentId": "5300"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖O02",
+                "dictItemId": 5302,
+                "displayName": "青阳县",
+                "factValue": "皖O02",
+                "isdel": "0",
+                "parentId": "5300"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖O03",
+                "dictItemId": 5303,
+                "displayName": "石台县",
+                "factValue": "皖O03",
+                "isdel": "0",
+                "parentId": "5300"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖O04",
+                "dictItemId": 5304,
+                "displayName": "东至县",
+                "factValue": "皖O04",
+                "isdel": "0",
+                "parentId": "5300"
+            }
+        ]
+    },
+    {
+        "dictCode": "dm_xzqh_two",
+        "dictItemCode": "皖P",
+        "dictItemId": 5320,
+        "displayName": "亳州",
+        "factValue": "皖P",
+        "isdel": "0",
+        "parentId": "5000",
+        "countys": [
+            {
+                "displayName": "全部"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖P01",
+                "dictItemId": 5321,
+                "displayName": "谯城区",
+                "factValue": "皖P01",
+                "isdel": "0",
+                "parentId": "5320"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖P02",
+                "dictItemId": 5322,
+                "displayName": "蒙城县",
+                "factValue": "皖P02",
+                "isdel": "0",
+                "parentId": "5320"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖P03",
+                "dictItemId": 5323,
+                "displayName": "涡阳县",
+                "factValue": "皖P03",
+                "isdel": "0",
+                "parentId": "5320"
+            },
+            {
+                "dictCode": "dm_xzqh_three",
+                "dictItemCode": "皖P04",
+                "dictItemId": 5324,
+                "displayName": "利辛县",
+                "factValue": "皖P04",
+                "isdel": "0",
+                "parentId": "5320"
+            }
+        ]
+    }
+]
